@@ -2,8 +2,6 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=F77878&center=true&random=false&width=435&lines=Well+done+is+better+than+well+said" alt="Typing SVG" /></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000&color=AEAEAE&repeat=false&random=false&width=435&lines=python+machine+learning+dev.+and+a+fast+learner" alt="Typing SVG" />
-
 <p align="center">
 <img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=gold"/> <!--Py-->
 <img src="https://img.shields.io/badge/PYTORCH-black?style=for-the-badge&logo=PyTorch&logoColor=gold"/> <!--Torch-->
@@ -13,6 +11,7 @@
 <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=gold"/> <!--Git-->
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000&color=AEAEAE&repeat=false&random=false&width=435&lines=python+machine+learning+dev.+and+a+fast+learner" alt="Typing SVG" />
 
 I'm a machine-learning developer and software engineer building my own digital world step by step. All my coding bases are built from the ground up getting pieces of knowledge
 from each new piece of software I build. I am seriosly looking forward to get hired OR building my own startup for profit. My GitHub profile is a compilation of my mistakes,
