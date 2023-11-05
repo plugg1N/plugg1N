@@ -13,7 +13,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/latex-black?style=for-the-badge&logo=latex&logoColor=gold"/> <!--LaTeX-->
-    <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=gold"/> <!--Markdown-->
+<img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=gold"/> <!--Markdown-->
 <img src="https://img.shields.io/badge/sklearn-black?style=for-the-badge&logo=scikitlearn&logoColor=gold"/> <!--sklearn-->
 </p>
 
