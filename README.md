@@ -1,6 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1&pause=1000&color=F74E61&center=true&repeat=false&random=false&width=435&lines=Nikita+Zhamkov" alt="Typing SVG" /></a></p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=F77878&center=true&random=false&width=435&lines=Well+done+is+better+than+well+said" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1650&color=F77878&center=true&random=false&width=435&lines=Well+done+is+better+than+well+said" alt="Typing SVG" /></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=gold"/> <!--Py-->
