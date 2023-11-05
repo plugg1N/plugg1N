@@ -9,7 +9,12 @@
 <img src="https://img.shields.io/badge/JUPYTER-black?style=for-the-badge&logo=jupyter&logoColor=gold"/> <!--Jupyter-->
 <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=gold"/> <!--Linux-->
 <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=gold"/> <!--Git-->
-<img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=gold"/> <!--Markdown-->
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/latex-black?style=for-the-badge&logo=latex&logoColor=gold"/> <!--LaTeX-->
+    <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=gold"/> <!--Markdown-->
+<img src="https://img.shields.io/badge/sklearn-black?style=for-the-badge&logo=scikitlearn&logoColor=gold"/> <!--sklearn-->
 </p>
 
 <p align="center">
