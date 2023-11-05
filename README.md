@@ -4,16 +4,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000&color=AEAEAE&repeat=false&random=false&width=435&lines=python+machine+learning+dev.+and+a+fast+learner" alt="Typing SVG" />
 
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?logo=adobeillustrator&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=gold"/> <!--Py-->
+<img src="https://img.shields.io/badge/PYTORCH-black?style=for-the-badge&logo=PyTorch&logoColor=gold"/> <!--Torch-->
+<img src="https://img.shields.io/badge/TensorFLow-black?style=for-the-badge&logo=TensorFlow&logoColor=gold"/> <!--TF-->
+<img src="https://img.shields.io/badge/JUPYTER-black?style=for-the-badge&logo=jupyter&logoColor=gold"/> <!--Jupyter-->
+<img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=gold"/> <!--Linux-->
+<img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=gold"/> <!--Git-->
+</p>
+
 
 I'm a machine-learning developer and software engineer building my own digital world step by step. All my coding bases are built from the ground up getting pieces of knowledge
 from each new piece of software I build. I am seriosly looking forward to get hired OR building my own startup for profit. My GitHub profile is a compilation of my mistakes,
