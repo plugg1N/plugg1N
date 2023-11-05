@@ -38,5 +38,5 @@ gained knowledge and pieces of curious ideas visiting my mind every single day
 
 <img src="https://gagaru.club/uploads/posts/2023-02/1676355341_gagaru-club-p-polosa-krasivaya-pinterest-16.png">
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plugg1n&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="plugg1n" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plugg1n&theme=dark" alt="plugg1n" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plugg1n&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" alt="plugg1n" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plugg1n&theme=vision-friendly-dark" alt="plugg1n" /></p>
