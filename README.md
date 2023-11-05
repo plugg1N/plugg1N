@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/JUPYTER-black?style=for-the-badge&logo=jupyter&logoColor=gold"/> <!--Jupyter-->
 <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=gold"/> <!--Linux-->
 <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=gold"/> <!--Git-->
+<img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=gold"/> <!--Markdown-->
 </p>
 
 <p align="center">
