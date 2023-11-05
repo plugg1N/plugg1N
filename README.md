@@ -15,10 +15,12 @@
 
 <p align="center">
     <a href="https://github.com/plugg1N/barcode-detector"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=plugg1N&repo=barcode-detector&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/plugg1N/gms-module"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=plugg1N&repo=gms-module&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/plugg1N/gms-module"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=plugg1N&repo=gms-module&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>  </p>
+
+<p align="center">
     <a href="https://github.com/plugg1N/aiijc-team-task-2023"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=plugg1N&repo=aiijc-team-task-2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/plugg1N/sapphire-gc"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=plugg1N&repo=sapphire-gc&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
-  </p>
+    <a href="https://github.com/plugg1N/sapphire-gc"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=plugg1N&repo=sapphire-gc&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a> </p>
+
 
 I'm a machine-learning developer and software engineer building my own digital world step by step. All my coding bases are built from the ground up getting pieces of knowledge
 from each new piece of software I build. I am seriosly looking forward to get hired OR building my own startup for profit. My GitHub profile is a compilation of my mistakes,
