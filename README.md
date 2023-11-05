@@ -19,6 +19,9 @@
     <a href="https://github.com/plugg1N/aiijc-team-task-2023"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=plugg1N&repo=aiijc-team-task-2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="custom-icon-badges"></a>
     <a href="https://github.com/plugg1N/sapphire-gc"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=plugg1N&repo=sapphire-gc&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-youtube-cards"></a> </p>
 
+<p align="center""><i>Projects I am known for</small></p>
+
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000&color=AEAEAE&repeat=false&random=false&width=435&lines=python+machine+learning+dev.+and+a+fast+learner" alt="Typing SVG" />
 
