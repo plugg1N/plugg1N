@@ -36,9 +36,7 @@ I'm a machine-learning developer and software engineer building my own digital w
 from each new piece of software I build. I am seriosly looking forward to get hired OR building my own startup for profit. My GitHub profile is a compilation of my mistakes,
 gained knowledge and pieces of curious ideas visiting my mind every single day
 
-<p align="center"><img src="https://media4.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=ecf05e47k7zis1wjgu26dykjin0wbot1nif3lcorpugd3d5s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=300 height=300></p>
-
-
+<p align="center"><img src="https://media4.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=ecf05e47k7zis1wjgu26dykjin0wbot1nif3lcorpugd3d5s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=270 height=270></p>
 
 
 
@@ -47,12 +45,12 @@ gained knowledge and pieces of curious ideas visiting my mind every single day
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&pause=1000&color=F76060&repeat=false&random=false&width=435&lines=Languages+and+Tools" alt="Typing SVG" /></a>
 
 
-<p>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> &nbsp; <b>Python</b> <img align="right" src="https://media2.giphy.com/media/dy8uuPWCzQrMA/giphy.gif?cid=ecf05e47k7zis1wjgu26dykjin0wbot1nif3lcorpugd3d5s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=330 height=220></p>
-<p>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> &nbsp; <b>Tensorflow</b</p>
-<p>&nbsp;&nbsp;<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> &nbsp; <b>Seaborn</b></p>
-<p>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> &nbsp; <b>Scikit Learn</b></p>
-<p>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> &nbsp; <b>Pytorch</b></p>
-<p>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> &nbsp; <b>Open-CV</b></p>
+<p align="left">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> &nbsp; <b>Python</b> 
+&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> &nbsp; <b>Tensorflow</b>
+&nbsp;&nbsp;<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> &nbsp; <b>Seaborn</b>
+&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> &nbsp; <b>Scikit Learn</b>
+&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> &nbsp; <b>Pytorch</b>
+&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> &nbsp; <b>Open-CV</b></p>
 
 <img src="https://gagaru.club/uploads/posts/2023-02/1676355341_gagaru-club-p-polosa-krasivaya-pinterest-16.png">
 
