@@ -42,10 +42,10 @@ gained knowledge and pieces of curious ideas visiting my mind every single day
 
 <img src="https://gagaru.club/uploads/posts/2023-02/1676355341_gagaru-club-p-polosa-krasivaya-pinterest-16.png">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&pause=1000&color=F76060&repeat=false&random=false&width=435&lines=Languages+and+Tools" alt="Typing SVG" /></a>
+<p align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&pause=1000&color=F76060&repeat=false&random=false&width=435&lines=Languages+and+Tools" alt="Typing SVG" /></p>
 
 
-<p align="left">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> &nbsp; <b>Python</b> 
+<p align="center">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> &nbsp; <b>Python</b> 
 &nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> &nbsp; <b>Tensorflow</b>
 &nbsp;&nbsp;<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> &nbsp; <b>Seaborn</b>
 &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> &nbsp; <b>Scikit Learn</b>
