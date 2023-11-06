@@ -34,7 +34,7 @@
 
 I'm a machine-learning developer and software engineer building my own digital world step by step. All my coding bases are built from the ground up getting pieces of knowledge
 from each new piece of software I build. I am seriosly looking forward to get hired OR building my own startup for profit. My GitHub profile is a compilation of my mistakes,
-gained knowledge and pieces of curious ideas visiting my mind every single day
+gained knowledge and pieces of curious ideas visiting my mind every single day.
 
 <p align="center"><img src="https://media4.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=ecf05e47k7zis1wjgu26dykjin0wbot1nif3lcorpugd3d5s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=270 height=270></p>
 
