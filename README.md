@@ -42,7 +42,7 @@ gained knowledge and pieces of curious ideas visiting my mind every single day
 
 <img src="https://gagaru.club/uploads/posts/2023-02/1676355341_gagaru-club-p-polosa-krasivaya-pinterest-16.png">
 
-<p align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&pause=1000&color=F76060&repeat=false&random=false&width=435&lines=Languages+and+Tools" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&pause=1000&color=F76060&repeat=false&random=false&width=285&lines=Languages+and+Tools" alt="Typing SVG" /></p>
 
 
 <p align="center">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> &nbsp; <b>Python</b> 
